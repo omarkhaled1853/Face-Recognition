@@ -15,8 +15,8 @@ Implementing from scratch PCA, Autoencoders, K-Means, and Gaussian Mixture Model
 
 * Randomly split data into:
 
-  * 50% Training
-  * 50% Testing and Validation
+  * 50% Training + Validation
+  * 50% Testing
 
 ---
 
